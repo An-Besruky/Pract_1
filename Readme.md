@@ -1,3 +1,3 @@
 Simple project for study makefiles
 ==================================
-test
+test-1
