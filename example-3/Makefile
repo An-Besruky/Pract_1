@@ -4,9 +4,9 @@
 
 RELEASE_FLAGS = -O2 -Wall -DNDEBUG
 DEBUG_FLAGS   = -g -O0 -Wall
-RELEASE_EXEC  = hello
-DEBUG_EXEC    = hello-dbg
-SOURCE        = hello.cpp
+RELEASE_EXEC  = Kazino-Royal
+DEBUG_EXEC    = Kazino-Royal-dbg
+SOURCE        = Kazino-Royal.cpp
 
 all: debug release
 
